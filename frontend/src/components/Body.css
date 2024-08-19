@@ -1,0 +1,41 @@
+.w-card {
+  width: 28rem;
+}
+
+.main-body {
+  background: white;
+  margin-right: -8px;
+  margin-left: -8px;
+}
+
+.card-body {
+  background-color: #f1f1f1;
+}
+
+/* .cards-body {
+  display: flex;
+  text-align: center;
+  justify-content: space-evenly;
+  text-align: justify;
+  font-family: sans-serif;
+  margin-top: 100px;
+  margin-bottom: 50px;
+} */
+
+.row-card {
+  display: flex;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 150px;
+}
+
+.margin-b-class {
+  margin-bottom: 70px;
+}
+
+.no-card {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: larger;
+  color: red;
+}

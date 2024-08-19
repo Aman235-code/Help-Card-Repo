@@ -1,0 +1,25 @@
+ul {
+  list-style: none;
+  margin-right: 50px;
+}
+
+.dis-flex {
+  display: flex;
+  margin: 60px;
+  margin-left: 180px;
+}
+
+.header {
+  margin-bottom: 20px;
+  font-weight: 700;
+  font-family: sans-serif;
+}
+
+ul,
+li {
+  font-family: sans-serif;
+}
+
+.m-bottom {
+  margin-top: 246px;
+}
